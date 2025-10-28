@@ -40,17 +40,14 @@
 ###
 
 <div align="left">
-  <a href="https://www.facebook.com/profile.php?id=100010768353452" target="_blank">
+  <a href="https://facebook.com/profile.php?id=100010768353452" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://www.instagram.com/mahmoud.matouk_/" target="_blank">
+  <a href="https://instagram.com/mahmoud.matouk_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.twitch.tv/esig_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="45" height="35" alt="twitch logo"  />
+  <a href="https://www.linkedin.com/in/mahmoud-matouk/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="35" alt="instagram logo"  />
   </a>
   <a href="https://twitter.com/Mahmoud_Matouk_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="35" alt="twitter logo"  />
