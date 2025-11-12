@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-    <a href="YOUR_CV_LINK_HERE" target="_blank">
+    <a href="https://drive.google.com/file/d/10taEtdPLbCg7HvUOa3UOjkXn2HW7fk13/view?usp=sharing" target="_blank">
         <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white"
             style="height:34px; object-fit:contain;" /></a> &nbsp;
     
